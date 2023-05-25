@@ -6,6 +6,5 @@
  *
  */
 module pruebas {
-	
 	String nombre="Buenas tardes"
 }
